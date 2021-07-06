@@ -1,1 +1,4 @@
-# jsTutorialRegexDuplicateElementinArrayTypeConversion
+# jsTutorial
+# Regex
+# DuplicateElementinArray
+# TypeConversion

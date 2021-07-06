@@ -1,4 +1,4 @@
 # jsTutorial
-# Regex
-# DuplicateElementinArray
-# TypeConversion
+## Regex
+## DuplicateElementinArray
+## TypeConversion
